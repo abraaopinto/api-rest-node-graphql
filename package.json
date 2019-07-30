@@ -1,0 +1,19 @@
+{
+  "name": "api-rest-node-graphql",
+  "version": "1.0.0",
+  "description": "Exemplo de api rest usando node e graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test nspecified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abraaopinto/api-rest-node-graphql.git"
+  },
+  "author": "Abraão Pinto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abraaopinto/api-rest-node-graphql/issues"
+  },
+  "homepage": "https://github.com/abraaopinto/api-rest-node-graphql#readme"
+}
